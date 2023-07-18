@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/TUA_Logo2.png" alt="TUA Takipçi Analizi Uygulaması" width="300" height="300">
+  <img src="TUA_Logo2.png" alt="TUA Takipçi Analizi Uygulaması" width="300" height="300">
 </div>
 
 # TUA Takipçi Analizi Uygulaması
