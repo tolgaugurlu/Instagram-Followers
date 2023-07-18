@@ -25,9 +25,9 @@ Uygulamayı çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız vard
 
 2. Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
 
-pip install instaloader PySimpleGUI Pillow
+--->  `pip install requirements.txt`
 
-3. `insta.py` dosyasını çalıştırın.
+3. Daha sonra `Instagram-Followers.py` dosyasını çalıştırabilirsiniz.
 
 ## Kullanım
 
