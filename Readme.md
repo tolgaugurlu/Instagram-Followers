@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="TUA_Logo2.png" alt="TUA Takipçi Analizi Uygulaması" width="300" height="300">
-</div>
 
 # TUA Takipçi Analizi Uygulaması
 
@@ -50,7 +47,8 @@ pip install instaloader PySimpleGUI Pillow
 
 ## Ekran Görüntüsü
 
-![Uygulama Ekran Görüntüsü](img/screenshot.png)
+![screenshot](https://github.com/tolgaugurlu/Instagram-Followers/assets/85436268/2b9f8ff1-9dfa-462c-b9bf-dca176d9c39e)
+
 
 ## Lisans
 
